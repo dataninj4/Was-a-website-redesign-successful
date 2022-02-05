@@ -6,4 +6,4 @@ You work for an early-stage startup in Germany. Your team has been working on a 
 
 They have been testing the changes for a few weeks and now they want to measure the impact of the change and need you to determine if the increase can be due to random chance or if it is statistically significant.
 
-Statistically we apply hypothesis testing and statistical power calculation given observed alpha, sample sizes, means and effect sizes.
+Statistically we apply hypothesis testing and statistical power calculation given the observed alpha, sample sizes, means and effect size parameters.
